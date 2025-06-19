@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/depthDemo1/static/css/main.223b8b80.chunk.css",
-    "main.js": "/depthDemo1/static/js/main.bd665c8d.chunk.js",
-    "main.js.map": "/depthDemo1/static/js/main.bd665c8d.chunk.js.map",
+    "main.css": "/depthDemo1/static/css/main.2c718a3c.chunk.css",
+    "main.js": "/depthDemo1/static/js/main.2bce08be.chunk.js",
+    "main.js.map": "/depthDemo1/static/js/main.2bce08be.chunk.js.map",
     "runtime-main.js": "/depthDemo1/static/js/runtime-main.ea9d3171.js",
     "runtime-main.js.map": "/depthDemo1/static/js/runtime-main.ea9d3171.js.map",
     "static/js/2.23ec5ab6.chunk.js": "/depthDemo1/static/js/2.23ec5ab6.chunk.js",
@@ -11,13 +11,13 @@
     "1e950416639f52d561e3.worker.js.LICENSE.txt": "/depthDemo1/1e950416639f52d561e3.worker.js.LICENSE.txt",
     "1e950416639f52d561e3.worker.js.map": "/depthDemo1/1e950416639f52d561e3.worker.js.map",
     "index.html": "/depthDemo1/index.html",
-    "static/css/main.223b8b80.chunk.css.map": "/depthDemo1/static/css/main.223b8b80.chunk.css.map",
+    "static/css/main.2c718a3c.chunk.css.map": "/depthDemo1/static/css/main.2c718a3c.chunk.css.map",
     "static/js/2.23ec5ab6.chunk.js.LICENSE.txt": "/depthDemo1/static/js/2.23ec5ab6.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea9d3171.js",
     "static/js/2.23ec5ab6.chunk.js",
-    "static/css/main.223b8b80.chunk.css",
-    "static/js/main.bd665c8d.chunk.js"
+    "static/css/main.2c718a3c.chunk.css",
+    "static/js/main.2bce08be.chunk.js"
   ]
 }
