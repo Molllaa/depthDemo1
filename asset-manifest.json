@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/depthDemo1/static/css/main.2c718a3c.chunk.css",
-    "main.js": "/depthDemo1/static/js/main.406d112b.chunk.js",
-    "main.js.map": "/depthDemo1/static/js/main.406d112b.chunk.js.map",
+    "main.css": "/depthDemo1/static/css/main.590f6c40.chunk.css",
+    "main.js": "/depthDemo1/static/js/main.42f8fb72.chunk.js",
+    "main.js.map": "/depthDemo1/static/js/main.42f8fb72.chunk.js.map",
     "runtime-main.js": "/depthDemo1/static/js/runtime-main.ea9d3171.js",
     "runtime-main.js.map": "/depthDemo1/static/js/runtime-main.ea9d3171.js.map",
     "static/js/2.f51c2bb0.chunk.js": "/depthDemo1/static/js/2.f51c2bb0.chunk.js",
     "static/js/2.f51c2bb0.chunk.js.map": "/depthDemo1/static/js/2.f51c2bb0.chunk.js.map",
-    "0026fcd57af6c381ff6f.worker.js": "/depthDemo1/0026fcd57af6c381ff6f.worker.js",
-    "0026fcd57af6c381ff6f.worker.js.LICENSE.txt": "/depthDemo1/0026fcd57af6c381ff6f.worker.js.LICENSE.txt",
-    "0026fcd57af6c381ff6f.worker.js.map": "/depthDemo1/0026fcd57af6c381ff6f.worker.js.map",
+    "5048cbc94aa7c76adbed.worker.js": "/depthDemo1/5048cbc94aa7c76adbed.worker.js",
+    "5048cbc94aa7c76adbed.worker.js.LICENSE.txt": "/depthDemo1/5048cbc94aa7c76adbed.worker.js.LICENSE.txt",
+    "5048cbc94aa7c76adbed.worker.js.map": "/depthDemo1/5048cbc94aa7c76adbed.worker.js.map",
     "index.html": "/depthDemo1/index.html",
-    "static/css/main.2c718a3c.chunk.css.map": "/depthDemo1/static/css/main.2c718a3c.chunk.css.map",
+    "static/css/main.590f6c40.chunk.css.map": "/depthDemo1/static/css/main.590f6c40.chunk.css.map",
     "static/js/2.f51c2bb0.chunk.js.LICENSE.txt": "/depthDemo1/static/js/2.f51c2bb0.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.ea9d3171.js",
     "static/js/2.f51c2bb0.chunk.js",
-    "static/css/main.2c718a3c.chunk.css",
-    "static/js/main.406d112b.chunk.js"
+    "static/css/main.590f6c40.chunk.css",
+    "static/js/main.42f8fb72.chunk.js"
   ]
 }
